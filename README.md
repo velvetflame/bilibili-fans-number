@@ -4,7 +4,7 @@
 
 后端由 [@八角老师](https://github.com/K-bai) 设计
 
-![obs截图](https://github.com/velvetflame/bilibili-fans-number/screenshots/obs.jpg)
+![obs截图](https://github.com/velvetflame/bilibili-fans-number/blob/main/screenshots/obs.jpg)
 
 ## 特性
 * 兼容多种B站推流软件
