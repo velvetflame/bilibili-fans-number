@@ -2,8 +2,6 @@
 
 主要是设计给主播直播冲刺粉丝数用的，可搭配`obs`/`直播姬`使用
 
-后端由 [@八角老师](https://github.com/K-bai) 设计
-
 ![obs截图](https://github.com/velvetflame/bilibili-fans-number/blob/main/screenshots/obs.jpg)
 
 ## 特性
